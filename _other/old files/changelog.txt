@@ -1,0 +1,73 @@
+1.0.0 - ALPHA
+
+- Primjer posla kakvi nasi trebaju biti https://youtu.be/vEprmo4KBxM
+  Zanimljivo radit i nevidjeno kod nas :D
+
+- Sistem vagona.Svaki put kada se u tunelu pojavi vagon,  bande će morati stići tamo i pronaći taj vagon (trenutno 2 vagona), a zatim će morati upakovati oružje u svoj transport u roku od 7 minuta. Ako nakon 7 minuta ne stine niko uzeti pakete oružja u vozilo, vagon će eksplodirati.
+
+- System Casina kockanje itd... [ https://i.redd.it/yc90y4tcps231.jpg https://www.gta-multiplayer.cz/en/screenshots/poker-buk/ ]
+nesto taj fazon, ne mora bukv isto al da ima zanimacija raznih u kazinu
+
+- Dodati actore na vaznije lokacije ispred i za salterom aktore s animacijama
+
+- Posao Pekar 
+  Prvo mora da uzme kombi/kamion i ide do neke lokacije po brasno zatim to brasno dovozi u pekaru
+  onda iznosi vrece i stavlja ih na neku masinu nesto i izlaze tamo hljebovi pokupi hljebove u pakete
+  i odveze do prodavnice. [ http://image.prntscr.com/image/8d1453b770c94c84afb271f9c15f0296.png // https://i.imgur.com/s6qW9BK.jpg ]
+
+- Obrada drveta nemam pojma kako nazvati posao
+  Moze biti povezan s poslom drvosjeca a moze biti isti posao samo iz 2 djela il nes tak
+  Dakle motorkom se obara drvo i tovari na kamion 4-5 klada i vozi se do te pilane sta vec gdje se drvo obradjuje
+  potom se drvo donosi do masine kroz koju prolazi i izlazi obradjeno drvo dal ce to bit daske il bilo sta nebitno
+  to se slaze u neku halu/skladiste. [ http://image.prntscr.com/image/5ead13debd674ddc9ca3b16dd30a54df.png ]
+
+- Izbacivanje posla Bus Vozac dodavanje taxija koji ce imati vise nekih mogucnosti
+  Taxiranje pravih igraca, ono klasicno pokupi cp/npc isl...
+
+- Vatrogasci organizacija/posao dakle neka kao organizacija u koju ces se moc zaposlit npr. bude cmd /pozar
+  kojom se aktivira neki pozar na random lokaciji oznaci cp zatim ide do lokacije i /gasipozar kao na slici dole gasi
+  takodje neki drugi dio tog istog posla da bude s nekim rusevinama i onda s nekim alatkama nesto rade spasavaju nekog itd..
+  [ http://image.prntscr.com/image/30e3e1a11a0945ef8dc01a1574e616f0.png // http://image.prntscr.com/image/9be734dc076a4abaac44de5280414a62.png ]
+
+- DM ZONA mapa velikih razmjera poput nekog skladista za pucanje nesto kao sadasnji CS u igraonici
+  dakle da ima ulaz kazem slican fazon igraonice moze npr dole kod pehara ulaz pickup neki
+  i izadje td da bira 2 tima npr i odabere automatski mu da gun i rokaju za svaku pobjedjenju rundu
+  clanovi pobjednickog tima dobijaju po 2k, minimum za igru je 4 igraca(2vs2)
+
+- Posao u hitnoj slicno kao i sa vatrogascima nesto, pri kucanju komande se kreira neki npc na zemlji il nes taj fazon
+  i idu pomazu mu nesto rade na njemu neke anim, potom stavljaju u hitna kola i dovoze ga.
+
+- System skladista svaka organizacija ce novcem iz budzeta moc uzet to skladiste/bunker kako god
+  kupovat/svercat ce te neke materijale i onda praviti oruzije, drogu itd u tim skladistima [ https://ibb.co/vHLSjLM ]
+
+- Ovo ubija [ https://ibb.co/1XTZhZp ] system je sa litvanske zajednice google translate je preveo nije kod nas..
+
+- Zone/zauzimanje bit ce par vrsta zona [ zone koje proizvode drogu s tim da ce se na nekooj zoni proizvodit samo neka 
+  vrsta droge a bit ce vise vrsta droge, isto tako i za gun neka zona ce proizvodit ak47, m5 itd.. neka deagle, snip.. ] 
+  tako ce svaka zona nositi neke povlastice, kada se kreira zona da budu vrste dal ce imat drogu, gun... I svaki payday
+  orga koja posjeduje tu zonu dobija te odredjene proizvode...
+  - Zauzimanje, samo zauzimanje ce se pocinjati kada 3+ clana neke org udju na ter druge teritorije i kuca
+  /zauzmi, zauzimanje traje 10min i sve dok je i 1 clan ziv zauzimanje traje, pritom svaki clan organizacije ce 
+  biti oznacen na mapi u okviru te zone ukoliko je to moguce vidjao sam na stranim srw da moze, takodje ako je moguce
+  da kada clan neke od te 2 bande koje su u zauzimanju pogine da se sacuva mjesto ubistva i kada on krene prici toj 
+  zoni da ga slapa, nesto kao kada pokusavate izac iz jaila ali vas baci gore.
+
+- Pljackanje bankomata/govornica Leo je predlozio na frm
+
+- Mehanicar posao nesto fazon da se stvori olupina vozila i on ode sa kamionom i pokupi tu olupinu
+  npr to bude kao neko pokvareno vozilo zatim ga dovozi u radionu gdje stavlja motor, tockove, spreja itd.. i odvozi  
+  to auto negdje cime dobija novac za odradjeni posao logicno 
+
+- Job skillovi  za svaku odredjenu turu dobija +1 skill max skill je 30 
+  Za svaki 1 skill ima veci bonus na tom poslu logicno
+
+- Organizatori dogadjaja - kreiranje eventa/liveeventa event itd.. te cmd staviti na zaduzenje
+
+- Laptop sistem (online kupovina vozila, oglasi i ostalo) to dok uradim tdove za lap
+
+- PD skladista, pd ce imati svoje neko skladiste sa drogom i tako necim sto zaplijene bit ce neki pocetni budzet
+  koji ce se punit vremenom, mafije/bande ce to moci pljackati svako 2h s tim da ce rizik biti veci jer je
+  blizu pda ali zato ce plijen tj kolicine droge biti vece itd...
+
+- Quest sistemi te znaci neke kao misije male sta vec bude odredjeni actor kod koga igrac uzime zadatak
+  zatim skuplja neke stvarcice u auto i doveze ih na lokaciju gdje dobije novac/upp/respect...

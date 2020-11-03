@@ -1,0 +1,83 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[5];
+
+TDEditor_TD[0] = TextDrawCreate(129.966766, 433.415466, "ultimate-rpg.com");
+TextDrawLetterSize(TDEditor_TD[0], 0.264666, 0.982843);
+TextDrawAlignment(TDEditor_TD[0], 3);
+TextDrawColor(TDEditor_TD[0], 1012446719);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 1);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 3);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(103.533271, 429.140136, "script version: v1.0.0");
+TextDrawLetterSize(TDEditor_TD[1], 0.116666, 0.535199);
+TextDrawAlignment(TDEditor_TD[1], 3);
+TextDrawColor(TDEditor_TD[1], -1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 1);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 2);
+TextDrawSetProportional(TDEditor_TD[1], 1);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(607.832885, 111.860099, "banka");
+TextDrawLetterSize(TDEditor_TD[2], 0.128666, 0.565199);
+TextDrawAlignment(TDEditor_TD[2], 3);
+TextDrawColor(TDEditor_TD[2], -1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 1);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 2);
+TextDrawSetProportional(TDEditor_TD[2], 1);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+
+TDEditor_TD[3] = TextDrawCreate(565.244689, 23.439994, "00:00");
+TextDrawLetterSize(TDEditor_TD[3], 0.428888, 1.729422);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 1);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 3);
+TextDrawSetProportional(TDEditor_TD[3], 1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+
+TDEditor_TD[4] = TextDrawCreate(608.332763, 37.086807, "00/00/0000");
+TextDrawLetterSize(TDEditor_TD[4], 0.128666, 0.565199);
+TextDrawAlignment(TDEditor_TD[4], 3);
+TextDrawColor(TDEditor_TD[4], -1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetOutline(TDEditor_TD[4], 1);
+TextDrawBackgroundColor(TDEditor_TD[4], 255);
+TextDrawFont(TDEditor_TD[4], 2);
+TextDrawSetProportional(TDEditor_TD[4], 1);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+
+
+
+//Player TextDraws: 
+
+
+new PlayerText:TDEditor_PTD[MAX_PLAYERS][1];
+
+TDEditor_PTD[playerid][0] = CreatePlayerTextDraw(playerid, 608.334106, 98.928787, "$000000");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][0], 0.400000, 1.600000);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][0], 3);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][0], 1012446719);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][0], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][0], 1);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][0], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][0], 3);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][0], 1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][0], 0);
+
+
+
+
+//Total textdraws exported: 6 (5 global textdraws / 1 player textdraws) ~ 2/11/2019 ~ 21:52:23
+TDEditor V1.17 BY ADRI1

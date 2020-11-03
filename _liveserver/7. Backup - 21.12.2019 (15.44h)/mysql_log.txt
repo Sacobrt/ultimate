@@ -1,0 +1,39 @@
+[22:26:40 12/14/19] [ERROR] cache_get_field_content_int - invalid datatype
+[22:27:25 12/14/19] [ERROR] cache_get_field_content_int - invalid datatype
+[05:59:58 12/17/19] [ERROR] cache_get_field_content_int - invalid datatype
+[06:05:21 12/17/19] [ERROR] cache_get_field_content_int - invalid datatype
+[16:44:51 12/17/19] [ERROR] cache_get_field_content_int - invalid datatype
+[16:45:38 12/17/19] [ERROR] cache_get_field_content_int - invalid datatype
+[19:13:05 12/19/19] [ERROR] cache_get_field_content_int - invalid datatype
+[19:57:04 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-aukcije' doesn't exist (Query: "INSERT INTO `log-aukcije` VALUES(NOW(), 'AUKCIJA VOZILO SQLID: 628 | Prodano igracu .veltzz od admina .mumitza ')")
+[19:58:02 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-aukcije' doesn't exist (Query: "INSERT INTO `log-aukcije` VALUES(NOW(), 'AUKCIJA VOZILO SQLID: 636 | Prodano igracu .veltzz od admina .mumitza ')")
+[23:42:57 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan aj do mn')")
+[23:43:24 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan aj do mn')")
+[23:44:54 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Ha staj e sad Mumitza sto sad ne idete rob?')")
+[23:45:06 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan do mn')")
+[23:45:15 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan do mn')")
+[23:45:54 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: DE MUMITZA STA CES TER?')")
+[23:46:21 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: KRISTIJAN DO MN')")
+[23:49:57 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan do mn')")
+[23:51:51 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan do mn')")
+[23:54:46 12/20/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kristijan do mn')")
+[12:38:19 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kill me')")
+[12:38:27 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kill me')")
+[12:38:34 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Kill me')")
+[13:12:15 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: do mn')")
+[13:12:31 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: neko do mnj')")
+[13:13:42 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: Ahmet aj do mn')")
+[13:18:53 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: spec me')")
+[13:18:55 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Ema_Barzini: spec me')")
+[15:24:44 12/21/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-prijavabugova' doesn't exist (Query: "INSERT INTO `log-prijavabugova` VALUES(NOW(), 'Igrac Mateo_Dunder: Postovani, policajac me ubio,igrica me spawnovala u gsf, i kada kazem clanovima da dodju nema po me')")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnGaragesLoad] - (error #1146) Table 'srv_1086206_i6T.garages' doesn't exist (Query: "SELECT garages.*, 		IFNULL(users.p_name, 'Drzava') AS `p_name` FROM garages 	LEFT JOIN users ON garages.owner_id 		= users.user_id")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '2'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '3'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '7'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '6'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '4'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '8'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '10'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '1'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '5'")
+[15:41:20 12/21/19] [ERROR] CMySQLQuery::Execute[OnOrganizationPortsLoad] - (error #1146) Table 'srv_1086206_i6T.org_ports' doesn't exist (Query: "SELECT * FROM `org_ports` WHERE `org_id` = '9'")

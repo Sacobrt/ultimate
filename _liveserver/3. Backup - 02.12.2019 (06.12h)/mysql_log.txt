@@ -1,0 +1,1 @@
+[21:31:58 12/01/19] [ERROR] CMySQLQuery::Execute[] - (error #1146) Table 'srv_1086206_i6T.log-aukcije' doesn't exist (Query: "INSERT INTO `log-aukcije` VALUES(NOW(), 'AUKCIJA VOZILO SQLID: 432 | Prodano igracu Mickey_Edwards od admina wrld ')")

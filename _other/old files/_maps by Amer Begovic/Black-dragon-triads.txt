@@ -1,0 +1,191 @@
+
+	RemoveBuildingForPlayer(playerid, 13783, 1254.3984, -803.1719, 85.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 759, 1227.2734, -823.8516, 84.1797, 0.25);
+	RemoveBuildingForPlayer(playerid, 671, 1232.7813, -823.1172, 83.9688, 0.25);
+	RemoveBuildingForPlayer(playerid, 617, 1229.3672, -819.3828, 84.7109, 0.25);
+	RemoveBuildingForPlayer(playerid, 759, 1231.5156, -815.1328, 86.0547, 0.25);
+	RemoveBuildingForPlayer(playerid, 672, 1230.7578, -791.2422, 83.7578, 0.25);
+	RemoveBuildingForPlayer(playerid, 759, 1236.9609, -821.4609, 84.0391, 0.25);
+	RemoveBuildingForPlayer(playerid, 13724, 1254.3984, -803.1719, 85.9609, 0.25);
+	RemoveBuildingForPlayer(playerid, 13744, 1272.5938, -803.1094, 86.3594, 0.25);
+	RemoveBuildingForPlayer(playerid, 673, 1304.7031, -767.1328, 91.0703, 0.25);
+	RemoveBuildingForPlayer(playerid, 617, 1254.7656, -763.2578, 90.8516, 0.25);
+	RemoveBuildingForPlayer(playerid, 673, 1294.7969, -761.3906, 92.0156, 0.25);
+	RemoveBuildingForPlayer(playerid, 673, 1265.8906, -760.7891, 92.5547, 0.25);
+	RemoveBuildingForPlayer(playerid, 673, 1285.7813, -760.1250, 92.3984, 0.25);
+	RemoveBuildingForPlayer(playerid, 673, 1276.9688, -759.6641, 92.5391, 0.25);
+
+
+
+
+
+
+
+
+
+
+
+
+
+new mmmafia = CreateDynamicObjectEx(13724, 1254.39844, -803.17188, 85.96090,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	   SetDynamicObjectMaterial(mmmafia, 0, 8678, "wddngchplgrnd01", "vgschurchwall05_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 1, 8678, "wddngchplgrnd01", "vgschurchwall05_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 2, 5772, "stationtunnel", "mp_apt1_bathfloor1");
+	   SetDynamicObjectMaterial(mmmafia, 3, 5772, "stationtunnel", "mp_apt1_bathfloor1");
+	   SetDynamicObjectMaterial(mmmafia, 4, 5772, "stationtunnel", "mp_apt1_bathfloor1");
+	   SetDynamicObjectMaterial(mmmafia, 5, 8678, "wddngchplgrnd01", "vgschurchwall05_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 7, 4600, "theatrelan2", "flmngo03_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 8, 4600, "theatrelan2", "flmngo03_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 9, 8678, "wddngchplgrnd01", "vgschurchwall05_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 10, 8678, "wddngchplgrnd01", "vgschurchwall05_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 12, 8678, "wddngchplgrnd01", "vgschurchwall05_128", 0xFFFFFFFF);
+	   SetDynamicObjectMaterial(mmmafia, 13, 10385, "baseballground_sfs", "ws_football_lines2");
+	   SetDynamicObjectMaterial(mmmafia, 14, 9495, "vict_sfw", "ws_carparknew2");
+	   SetDynamicObjectMaterial(mmmafia, 15, 9495, "vict_sfw", "ws_carparknew2");
+   
+    new merdevine[34];
+    merdevine[0] = CreateDynamicObjectEx(1437, 1269.71667, -833.75916, 82.43630,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[1] = CreateDynamicObjectEx(1437, 1275.47034, -833.79968, 82.43630,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[2] = CreateDynamicObjectEx(1437, 1281.51147, -833.84637, 82.43630,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[3] = CreateDynamicObjectEx(1437, 1287.35852, -833.85291, 82.43630,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[4] = CreateDynamicObjectEx(1437, 1289.99939, -833.84619, 82.43630,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[5] = CreateDynamicObjectEx(1437, 1268.64612, -832.50513, 82.43630,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[6] = CreateDynamicObjectEx(1437, 1268.67615, -826.54901, 82.43630,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[7] = CreateDynamicObjectEx(1437, 1268.71375, -820.64697, 82.43630,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[8] = CreateDynamicObjectEx(1437, 1294.86560, -832.45056, 82.43630,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[9] = CreateDynamicObjectEx(1437, 1294.83057, -826.62561, 82.43630,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[10] = CreateDynamicObjectEx(1437, 1294.79297, -820.84497, 82.43630,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[11] = CreateDynamicObjectEx(1437, 1272.24817, -838.48779, 76.54650,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[12] = CreateDynamicObjectEx(1437, 1278.04858, -838.49451, 76.55450,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[13] = CreateDynamicObjectEx(1437, 1283.94751, -838.50269, 76.55450,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[14] = CreateDynamicObjectEx(1437, 1285.26440, -838.49750, 76.55450,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[15] = CreateDynamicObjectEx(1437, 1258.52686, -812.70660, 87.60090,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[16] = CreateDynamicObjectEx(1437, 1264.42737, -812.72668, 87.60090,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[17] = CreateDynamicObjectEx(1437, 1270.21558, -812.73242, 87.60090,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[18] = CreateDynamicObjectEx(1437, 1276.02148, -812.75330, 87.60090,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[19] = CreateDynamicObjectEx(1437, 1282.08777, -812.77466, 87.60090,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[20] = CreateDynamicObjectEx(1437, 1287.97815, -812.80170, 87.60090,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[21] = CreateDynamicObjectEx(1437, 1297.88977, -805.27490, 87.60090,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[22] = CreateDynamicObjectEx(1437, 1297.90723, -808.41351, 87.61690,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[23] = CreateDynamicObjectEx(1437, 1257.27734, -811.60431, 87.61690,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[24] = CreateDynamicObjectEx(1437, 1257.30786, -806.56458, 87.61690,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	merdevine[25] = CreateDynamicObjectEx(1437, 1253.29285, -792.28442, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[26] = CreateDynamicObjectEx(1437, 1259.14783, -792.28357, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[27] = CreateDynamicObjectEx(1437, 1265.01880, -792.28375, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[28] = CreateDynamicObjectEx(1437, 1270.76746, -792.31818, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[29] = CreateDynamicObjectEx(1437, 1276.61279, -792.35547, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[30] = CreateDynamicObjectEx(1437, 1282.45459, -792.34729, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[31] = CreateDynamicObjectEx(1437, 1288.55750, -792.34723, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[32] = CreateDynamicObjectEx(1437, 1289.88123, -792.36456, 91.31280,   -2.00000, 90.00000, -10.00000, 600.0, 600.0);
+	merdevine[33] = CreateDynamicObjectEx(1437, 1294.80847, -791.11493, 91.31280,   -2.00000, 90.00000, 80.00000, 600.0, 600.0);
+	for(new i = 0; i < sizeof(merdevine); i++)
+	{
+	    SetDynamicObjectMaterial(merdevine[i], 0, 3587, "snpedhusxref", "sjmlawood", 0xFFFFFFFF);
+	}
+	
+	new stubici[17];
+	stubici[0] = CreateDynamicObjectEx(1214, 1268.58838, -833.79742, 81.83029,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[1] = CreateDynamicObjectEx(1214, 1281.93958, -833.76703, 81.83029,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[2] = CreateDynamicObjectEx(1214, 1294.82166, -833.80414, 81.83029,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[3] = CreateDynamicObjectEx(1214, 1268.70203, -820.71930, 81.83029,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[4] = CreateDynamicObjectEx(1214, 1277.16040, -847.26477, 68.29941,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[5] = CreateDynamicObjectEx(1214, 1270.85889, -838.46588, 76.01257,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[6] = CreateDynamicObjectEx(1214, 1290.25513, -838.48657, 76.01257,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[7] = CreateDynamicObjectEx(1214, 1257.29309, -812.68304, 87.10210,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[8] = CreateDynamicObjectEx(1214, 1268.98706, -812.67566, 87.10210,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[9] = CreateDynamicObjectEx(1214, 1280.92981, -812.67401, 87.10210,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[10] = CreateDynamicObjectEx(1214, 1292.85181, -812.72467, 87.10210,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[11] = CreateDynamicObjectEx(1214, 1297.79309, -809.64606, 87.10210,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[12] = CreateDynamicObjectEx(1214, 1257.31714, -801.62842, 87.10210,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[13] = CreateDynamicObjectEx(1214, 1252.24475, -792.23883, 90.65150,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[14] = CreateDynamicObjectEx(1214, 1263.90930, -792.21082, 90.65051,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[15] = CreateDynamicObjectEx(1214, 1275.48193, -792.27264, 90.65051,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[15] = CreateDynamicObjectEx(1214, 1287.24219, -792.23425, 90.65051,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	stubici[16] = CreateDynamicObjectEx(1214, 1294.75989, -792.26318, 90.65051,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	for(new i = 0; i < sizeof(stubici); i++)
+	{
+	    SetDynamicObjectMaterial(stubici[i], 1, 3587, "snpedhusxref", "sjmlawood", 0xFFFFFFFF);
+	}
+
+	new celik[3];
+	celik[0] = CreateDynamicObjectEx(970, 1281.70337, -820.39801, 83.65800,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	celik[1] = CreateDynamicObjectEx(970, 1305.93555, -802.50781, 83.65800,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	celik[2] = CreateDynamicObjectEx(970, 1259.68262, -817.57605, 83.65800,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	for(new i = 0; i < sizeof(celik); i++)
+	{
+		SetDynamicObjectMaterial(celik[i], 0, 12959, "sw_library", "sjmornfnce", 0xFFFFFFFF);
+	}
+
+	new travica[4];
+	travica[0] = CreateDynamicObjectEx(1453, 1285.97607, -819.44800, 83.64246,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	travica[1] = CreateDynamicObjectEx(1453, 1277.49158, -819.51624, 83.64246,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+    travica[2] = CreateDynamicObjectEx(1453, 1301.24304, -816.54456, 83.64246,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+    travica[3] = CreateDynamicObjectEx(1453, 1296.10645, -811.41815, 87.86239,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+   	for(new i = 0; i < sizeof(travica); i++)
+	{
+		SetDynamicObjectMaterial(travica[i], 1, 13681, "lahillshilhs1e", "veg_hedge1_256", 0xFFFFFFFF);
+	}
+
+	new podic[4];
+    podic[0] = CreateDynamicObjectEx(2189, 1301.26318, -816.38269, 83.15740,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	podic[1] = CreateDynamicObjectEx(2189, 1296.14856, -811.46735, 87.34731,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	podic[2] = CreateDynamicObjectEx(2189, 1277.49805, -819.51508, 83.15740,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	podic[3] = CreateDynamicObjectEx(2189, 1285.92078, -819.49414, 83.15740,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	for(new i = 0; i < sizeof(podic); i++)
+	{
+		SetDynamicObjectMaterial(podic[i], 0, 4600, "theatrelan2", "sl_LAbedingsoil", 0xFFFFFFFF);
+	}
+	
+	new pozidu[4];
+	pozidu[0] = CreateDynamicObjectEx(1482, 1261.30322, -810.49829, 84.51193,   0.00000, 90.00000, -90.00000, 600.0, 600.0);
+	pozidu[1] = CreateDynamicObjectEx(1482, 1267.22937, -810.48901, 84.51193,   0.00000, 90.00000, -90.00000, 600.0, 600.0);
+	pozidu[2] = CreateDynamicObjectEx(1482, 1259.36646, -808.50195, 84.51190,   0.00000, 90.00000, -180.00000, 600.0, 600.0);
+	pozidu[3] = CreateDynamicObjectEx(1482, 1259.33960, -801.85187, 84.51190,   0.00000, 90.00000, -180.00000, 600.0, 600.0);
+		for(new i = 0; i < sizeof(pozidu); i++)
+	{
+	    SetDynamicObjectMaterial(pozidu[i], 0, 2361, "shopping_freezers", "white", 0xFFB4785B);
+	}
+	
+	new spoljna[4];
+	spoljna[0] = CreateDynamicObjectEx(19377, 1287.77966, -767.77289, 90.61224,   0.00000, 0.00000, 90.00000, 600.0, 600.0);
+	spoljna[1] = CreateDynamicObjectEx(19377, 1278.21179, -767.75446, 90.61224,   0.00000, 0.00000, 90.00000, 600.0, 600.0);
+	spoljna[2] = CreateDynamicObjectEx(19377, 1268.64746, -767.75330, 90.61224,   0.00000, 0.00000, 90.00000, 600.0, 600.0);
+	spoljna[3] = CreateDynamicObjectEx(19377, 1259.05859, -767.73657, 90.61224,   0.00000, 0.00000, 90.00000, 600.0, 600.0);
+	for(new i = 0; i < sizeof(spoljna); i++)
+	{
+		SetDynamicObjectMaterial(spoljna[i], 0, 12959, "sw_library", "sjmornfnce", 0xFFFFFFFF);
+	}
+
+
+	CreateDynamicObjectEx(980, 1245.54688, -767.30017, 92.40421,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(3749, 1245.69153, -768.25549, 95.38074,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(3749, 1245.69153, -768.25549, 83.82481,   180.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1214, 1277.16040, -847.26477, 68.29941,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(771, 1222.17297, -817.78345, 82.05945,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(775, 1235.82019, -816.43182, 84.80416,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(764, 1231.46973, -823.36102, 83.78327,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(867, 1231.63086, -819.84167, 85.31188,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(867, 1236.21155, -815.91479, 85.31188,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(867, 1220.90381, -818.40338, 85.51288,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(874, 1225.38745, -815.50134, 84.34024,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(874, 1231.90479, -812.91284, 84.34024,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(874, 1231.73206, -816.46906, 84.34024,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(771, 1252.62988, -837.74365, 72.96938,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1277.91003, -791.60205, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1281.48962, -797.79993, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1287.74316, -801.43634, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1296.39404, -800.84247, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1303.07837, -795.29840, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1304.99695, -786.84100, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1302.23303, -779.60474, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1319, 1293.99060, -774.46533, 96.06194,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1215, 1270.75574, -825.41241, 82.32857,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1215, 1290.23657, -825.40863, 82.32857,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(772, 1296.98450, -757.39923, 91.97729,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(777, 1266.88916, -755.82867, 92.12181,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(771, 1281.10425, -756.40143, 92.52898,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1568, 1295.92102, -816.05908, 83.01366,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1568, 1281.07190, -829.18719, 81.77380,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1215, 1225.22607, -820.54211, 85.50398,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1215, 1230.47803, -816.69745, 85.91002,   0.00000, 0.00000, 0.00000, 600.0, 600.0);
+	CreateDynamicObjectEx(1215, 1233.99011, -823.17993, 84.41528,   0.00000, 0.00000, 0.00000, 600.0, 600.0);

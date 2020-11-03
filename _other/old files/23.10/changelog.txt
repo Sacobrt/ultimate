@@ -1,0 +1,16 @@
+- Odvojiti spec admine od admina /admini i da nemaju /a chat nego /ga
+- srediti cmd za admin level a5 moze skidat admina i tome slinco..
+- ent male kuce ja msm hodnik i soba su skroz crni ak moze da se izbaci taj ent doda drugi
+- /imanje kada ides da upgrade nesto ispise neke broje do boga
+- pns kod plaze nema ona zastitna vrata samo ima klasicna gta i otvore se i fixa se za 100$
+- dodati zaduzenja kao /giveuprank da bude /dajzaduzenje npr 
+  [ 1.Vodja Spec Teama 2. Vodja GMova 3. Vodja Lidera 4. Vodja Promotera.. ]
+- GM boja zelena neka i iznad glave im zelen natpis
+- Register sistem srediti onaj sto smo rekli da s lijeve strane bude skin
+- Ubaciti mape sto sam slao Saci od Chappe glen park, banka itd...
+
+
+
+
+- izbaciti komande za spec admine poput onih za evente pustanje itd..
+- kad si daleko od spawna tipa sf i potras se do spawna propadnes

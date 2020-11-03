@@ -1,0 +1,3 @@
+new ogradicapd = CreateDynamicObject(19380, 1598.10449, -1717.54272, 12.47680,   -0.02000, 90.00000, 0.00000);
+SetDynamicObjectMaterial(ogradicapd, 0, 18757, "vcinteriors", "dt_office_gls_text", 0x00000000);
+SetDynamicObjectMaterial(ogradicapd, 1, 10765, "airportgnd_sfse", "black64", 0x00000000);

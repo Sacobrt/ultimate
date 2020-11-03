@@ -1,0 +1,32 @@
+#if defined _nex_ac_lang_included
+	#endinput
+#endif
+#define _nex_ac_lang_included
+
+new
+	SUSPICION_1[] =			"[U-AC] Sumnja za ID: %d. Razlog code: %03d%s",
+	SUSPICION_2[] =			"[U-AC] Sumnja za IP: %s. Razlog code: %03d%s",
+	VERSION_WARNING[] =		"[U-AC] Ova verzija AntiCheat-a nije dostupna za nasu verziju SA:MP klijenta.",
+	CFG_OPENING_ERROR[] =		"[U-AC] Greska u kreiranju/citanju %s!",
+
+#if defined DEBUG
+	DEBUG_CODE_1[] =		"[U-AC debug] ID %d presao limit %d flood napada. Public ID: %d",
+	DEBUG_CODE_2[] =		"[U-AC debug] Invalid verzija za ID %d. Verzija: %s",
+	DEBUG_CODE_3[] =		"[U-AC debug] ID %d presao limit %d konekcija sa 1 IP adrese.",
+	DEBUG_CODE_4[] =		"[U-AC debug] Bad RCON login za IP %s, password %s",
+	DEBUG_CODE_5[] =		"[U-AC debug] ID %d koristi NOP %s",
+#endif
+
+	KICK_MSG[] =			"{FFFFFF}(U-AC): Kickovani ste od strane AntiCheat-a. Razlog: {FF0000}%s",
+	KICK_MSGALL[] =			"{FFFFFF}(U-AC): {FF0000}%s {FFFFFF}je kickovan/a od strane AntiCheat-a. Razlog: {FF0000}%s",
+	MAX_CONNECTS_MSG[] =		"{FFFFFF}(U-AC): Presli ste limit za konektovanje sa {FF0000}(1) {FFFFFF}IP adrese.",
+	UNKNOWN_CLIENT_MSG[] =		"{FFFFFF}(U-AC): Vasa verzija SA:MP klijenta nije kompatibilna sa nasom verzijom servera.",
+
+	STATS_STRING_1[] =		"Ultimate Anticheat",
+	STATS_STRING_2[] =		" Detektovani & kickovani",
+	STATS_STRING_3[] =		"   %d cheat-ovanja",
+	STATS_STRING_4[] =		"   %d hack-ovanja",
+	STATS_STRING_5[] =		"   %d crash-ovanja",
+	STATS_STRING_6[] =		"   %d flood-ovanja",
+	STATS_STRING_7[] =		"   %d napada",
+	STATS_STRING_8[] =		" Ukupan broj detektovanih i kaznjenih citera: %d";

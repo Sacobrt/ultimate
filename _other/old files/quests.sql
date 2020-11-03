@@ -1,0 +1,26 @@
+
+CREATE TABLE `quests` (
+  `user_id` int(10) unsigned NOT NULL,
+  `easy_quest_1` tinyint(1) NOT NULL,
+  `easy_quest_2` tinyint(1) NOT NULL,
+  `easy_quest_3` tinyint(1) NOT NULL,
+  `easy_quest_4` tinyint(1) NOT NULL,
+  `easy_quest_5` tinyint(1) NOT NULL,
+  `easy_quest_6` tinyint(1) NOT NULL,
+  `easy_quest_7` tinyint(1) NOT NULL,
+  `easy_quest_8` tinyint(1) NOT NULL,
+  `easy_quest_9` tinyint(1) NOT NULL,
+  `easy_quest_10` tinyint(1) NOT NULL,
+  `easy_reward_quest_1` tinyint(1) NOT NULL,
+  `easy_reward_quest_2` tinyint(1) NOT NULL,
+  `easy_reward_quest_3` tinyint(1) NOT NULL,
+  `easy_reward_quest_4` tinyint(1) NOT NULL,
+  `easy_reward_quest_5` tinyint(1) NOT NULL,
+  `easy_reward_quest_6` tinyint(1) NOT NULL,
+  `easy_reward_quest_7` tinyint(1) NOT NULL,
+  `easy_reward_quest_8` tinyint(1) NOT NULL,
+  `easy_reward_quest_9` tinyint(1) NOT NULL,
+  `easy_reward_quest_10` tinyint(1) NOT NULL,
+  PRIMARY KEY (`user_id`),
+  UNIQUE KEY `user_id_UNIQUE` (`user_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
