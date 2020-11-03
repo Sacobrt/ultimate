@@ -1,4 +1,4 @@
-# Ultimate Project 2020
+# U L T I M A T E
 
-### Credits
-###### Mumitza, Momenzi, White
+### Scripter Team - Mumitza x Saco x Ghetoven
+### Credits - Momenzi x White
