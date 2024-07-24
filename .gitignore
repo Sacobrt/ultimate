@@ -8,8 +8,8 @@ crashinfo.txt
 plugins/*.cfg
 
 # Scriptfiles
-scriptfiles/MultiAccs/*
-scriptfiles/MultiIPs/*
+scriptfiles/MultiAccs/*.cfg
+scriptfiles/MultiIPs/*.cfg
 
 # Gamemodes
 gamemodes/*.amx
