@@ -20811,7 +20811,7 @@ _:public CreatePickupsAnd3Ds()
     Create3DandP( "{CCCCCC}(( TAJNI PROLAZ ))\nZa izlaz pritisnite tipku {FFFFFF}\"ENTER\"", 1610.8090, -1047.8755, -31.2101, -1, -1, 1239, 10.0);
     Create3DandP( "{CCCCCC}(( TAJNI PROLAZ ))\n\nZa izlaz pritisnite tipku {FFFFFF}\"ENTER\"", 1605.0842, -1047.8739, -31.2101, -1, -1, 1239, 10.0);
 
-    Create3DandP( "(( PADOBRAN ))\nZa kupovinu(2000$) kucajte {FFFFFF}\"/kupipadobran\"", 1544.2876, -1354.0452, 329.4731, -1, -1, 391, 10.0 );
+    Create3DandP( "(( PADOBRAN ))\nZa kupovinu(2000$) kucajte {FFFFFF}\"/kupipadobran\"", 1544.2876, -1354.0452, 329.4731, -1, -1, 1310, 10.0 );
     Create3DandP( "{4282C0}(( ZGRADA ))\n{FFFFFF}\"ENTER\" {4282C0}za ulaz", 1573.0773, -1338.7637, 16.4844, -1, -1, 19133, 20.0 );
     Create3DandP( "{4282C0}(( ZGRADA ))\n{FFFFFF}\"ENTER\" {4282C0}za izlaz", 1548.4452,-1364.1462,326.2183, -1, -1, 19133, 20.0 );
 
@@ -21178,6 +21178,8 @@ _:public OnAccountRegister( playerid )
 	SetPlayerInterior( playerid, 0 );
 	SetPlayerVirtualWorld( playerid, 1 );
 	SMG_SetPlayerPos( playerid, 1463.7633,-1041.4501,26.8281);
+
+	SetPlayerTimerEx(playerid, "Player_OneSecond", 1000, true, "i", playerid);
 
 	// ---
 
